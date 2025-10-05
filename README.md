@@ -94,7 +94,7 @@ python app.py
 ![Product](Product_view.png)
 
 ## Product Add
-![Product Add](Product_adding.png)
+![Product Add](Produdct_adding.png)
 
 ## Location view
 ![Location](Location_view.png)
@@ -106,7 +106,7 @@ python app.py
 ![Movemnets](Product_movement.png)
 
 ##  Product Movement Add
-![Movement Add](Product_movement_adding.png)
+![Movement Add](Prodcut_movement_adding.png)
 
 ### Reports
 ![Reports](Movement_report.png)
