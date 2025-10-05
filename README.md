@@ -50,7 +50,7 @@ This application allows businesses to efficiently track products across multiple
 
 ```
 bash
-git clone https://github.com/Praveenku-mar/Inventory_Management_System.git
+git clone https://github.com/Dejassha/Inventory_Management_System.git
 cd Inventory_Management_System
 ```
 
