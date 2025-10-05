@@ -88,7 +88,7 @@ python app.py
 ## Screenshots
 
 ### Dashboard
-![Dashboard](results/Index.png)
+![Dashboard](Dashboard.png)
 
 ### Product page
 ![Product](results/Product_Page.png)
