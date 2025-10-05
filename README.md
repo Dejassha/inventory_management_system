@@ -91,25 +91,25 @@ python app.py
 ![Dashboard](Dashboard.png)
 
 ### Product page
-![Product](results/Product_Page.png)
+![Product](Product_view.png)
 
 ## Product Add
-![Product Add](results/Add_Product.png)
+![Product Add](Product_adding.png)
 
 ## Location view
-![Location](results/Location_Page.png)
+![Location](Location_view.png)
 
 ## Location Add
-![Location Add](results/Add_Location.png)
+![Location Add](Location_adding.png)
 
-## Movement View
-![Movemnets ](results/Movements_Page.png)
+## Prodcut Movement View
+![Movemnets](Product_movement.png)
 
-## Movement Add
-![Movement Add](results/Add_Movement.png)
+##  Product Movement Add
+![Movement Add](Product_movement_adding.png)
 
 ### Reports
-![Reports](results/Report_Page.png)
+![Reports](Movement_report.png)
 
 ## Contributing 
 
