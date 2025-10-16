@@ -10,6 +10,9 @@ This application allows businesses to efficiently track products across multiple
 
 ---
 
+## Deploy Link
+- [project Link](#https://inventory-management-system-2531.onrender.com)
+
 ## Table of Contents
 
 - [Features](#features)  
